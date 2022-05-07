@@ -22,6 +22,7 @@ Télécharger mon fichier scrabble.py et lancer le sur votre terminale ou bien e
 
 ### Objectifs bonus 
 - Faire une "interface graphique" pour rendre le jeu plus agréable <br>
+- Créer un compteur de points totaux.<br>
 
 ### Technologie utilisée
 
