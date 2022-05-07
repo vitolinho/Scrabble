@@ -1,4 +1,4 @@
-### <p align="center">• Scrabble sur console •</p>
+### <p align="center">Mini Projet python• Scrabble sur console </p>
 
 
 
