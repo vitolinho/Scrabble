@@ -11,6 +11,9 @@ Arriverez-vous à faire 9/9 sur mon Scrabble ? <br>
 ### Pourquoi 
 Dans le cadre d'un premier projet Python dans mon [école](https://www.hetic.net/), nous avons eu pour exercice de faire un Scrabble sur la console en Python. Lors de la réalisation de ce projet je savais coder depuis à peine quelques semaines.<br>
 
+### Installation
+Télécharger mon fichier scrabble.py et lancer le sur votre terminale ou bien executez le code depuis Visual Studio Code.
+
 ### Contraintes imposées
 - L'ordinateur doit séléctionner 3 mots d'une liste
 - L'ordinateur doit décomposer chaque mots, mélanger les lettres des 3 mots et supprimer les lettres en double puis les afficher au joueur
