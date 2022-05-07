@@ -20,7 +20,7 @@ Télécharger mon fichier scrabble.py et lancer le sur votre terminale ou bien e
 - Le joueur doit deviner les 3 mots cachés. L'ordinateur doit dire si les propositions sont bonnes ou mauvaises
 - Mettre une option pour que le joueur puisse quitter la manche <br>
 
-### Objectifs bonus 
+### Fonctionnalitées bonus 
 - Créerd'un menu <br>
 - Faire une "interface graphique" pour rendre le jeu plus agréable <br>
 - Créer un compteur de points totaux.<br>
