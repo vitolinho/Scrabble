@@ -21,6 +21,7 @@ Télécharger mon fichier scrabble.py et lancer le sur votre terminale ou bien e
 - Mettre une option pour que le joueur puisse quitter la manche <br>
 
 ### Objectifs bonus 
+- Création d'un menu <br>
 - Faire une "interface graphique" pour rendre le jeu plus agréable <br>
 - Créer un compteur de points totaux.<br>
 
