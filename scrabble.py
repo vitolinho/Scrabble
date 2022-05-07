@@ -40,7 +40,7 @@ def play(round):
     print("\x1b[33;49m-----MANCHE 1-----\x1b[0m")
     
 # Boucle avec un compteur de points par manche, et permettant 3 essais de retrouver les 3 mots de cette manche et il y a aussi
-# le quit qui permte d'abandonner la manche en cours.
+# le quit qui permet d'abandonner la manche en cours.
     points_counter1 = 0
     i = 0
     while i < 3:
@@ -71,7 +71,7 @@ def play(round):
     print("\x1b[33;49m-----MANCHE 2-----\x1b[0m")
     
 # Boucle avec un compteur de points par manche, et permettant 3 essais de retrouver les 3 mots de cette manche et il y a aussi
-# le quit qui permte d'abandonner la manche en cours.
+# le quit qui permet d'abandonner la manche en cours.
     points_counter2 = 0
     i = 0
     while i < 3:
@@ -98,7 +98,7 @@ def play(round):
     print("\x1b[33;49m-----MANCHE 3-----\x1b[0m")
     
 # Boucle avec un compteur de points par manche, et permettant 3 essais de retrouver les 3 mots de cette manche et il y a aussi
-# le quit qui permte d'abandonner la manche en cours.
+# le quit qui permet d'abandonner la manche en cours.
     points_counter3 = 0
     i = 0
     while i < 3:
