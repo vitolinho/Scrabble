@@ -152,7 +152,7 @@ def menu():
   2 - Crédits
   3 - Quitter le jeu
   \x1b[0m""")
-  menu_choice = input("\x1b[3mEntrez la valeur 1 ou 2: \x1b[0m")
+  menu_choice = input("\x1b[3mEntrez la valeur 1, 2 ou 3: \x1b[0m")
   if menu_choice == "1":
     print("")
     print("")
